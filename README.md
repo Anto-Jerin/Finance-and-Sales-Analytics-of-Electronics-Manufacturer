@@ -41,3 +41,4 @@ Numerous Excel files are scattered across multiple departments, making it imposs
   -  Dax
   -  Pivot Table
   -  Designing user-centric reports for readability
+  -  Clear understanding of Sales & Finance metrics

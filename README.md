@@ -14,11 +14,23 @@ Numerous Excel files are scattered across multiple departments, making it imposs
   -  to implement access control
   -  to ensure easy scalability.
 
-## Project Deliverables
+## Project Deliverables Requested
 
+### 1. Sales Department
+
+ -- 1. Customer Performance Report
+ -- 2. Market Performance Report
+
+### 2. Finance Department
+
+  -- 1. P&L Overview by Fiscal Year
+  -- 2. P&L Statement by Months & Quarters
+  -- 3. P&L Statement by Country
+  -- 4. GM% analysis by Subzone and Quarters
 
 
 ## Business Objectives
+
   - Identify potential business expansion opportunities in promising countries.
   - Assist with budgeting, forecasting, and strategic planning.
   - Manage cost, profitability, and market share goals.

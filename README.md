@@ -47,6 +47,7 @@ Numerous Excel files are scattered across multiple departments, making it imposs
 
 ## Business Objectives
 
+  - Single source of truth for all analytics purposes
   - Identify potential business expansion opportunities in promising countries.
   - Assist with budgeting, forecasting, and strategic planning.
   - Manage cost, profitability, and market share goals.
@@ -54,10 +55,12 @@ Numerous Excel files are scattered across multiple departments, making it imposs
 
 ## Operational Objectives
 
+  - Implement access control and change logs among employees.
   - Determine exclusivity deals and seasonal promotions.
   - Assist in determining performance bonuses & market share goals.
   - Analyse key P&L metrics and trends from a single source of truth across departments.
   - Analyse market and customer trends for swift and informed decisions.
+
 
 ## Tech Stack
 

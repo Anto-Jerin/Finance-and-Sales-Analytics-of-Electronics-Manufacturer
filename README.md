@@ -25,12 +25,12 @@ Numerous Excel files are scattered across multiple departments, making it imposs
 
 ### 1. Sales Department  
 
-1. #### Customer Performance Report
+1. #### [Customer Performance Report](https://github.com/Anto-Jerin/Finance-and-Sales-Analytics-of-Electronics-Manufacturer/blob/main/Customer%20Performance%20Report.pdf)
 
     - Customer-wise net sales for the years 2019, 2020, and 2021
     - Comparison of 2021 vs 2020 sales percentage change to measure growth/decline trends
        
-2. #### Market Performance Report
+2. #### [Market Performance Report](https://github.com/Anto-Jerin/Finance-and-Sales-Analytics-of-Electronics-Manufacturer/blob/main/Market%20Performance%20Report.pdf)
     
     - Market-wise comparison of actual sales vs targets.
     - Conditionally formatted report to highlight markets that missed the target.
@@ -39,7 +39,7 @@ Numerous Excel files are scattered across multiple departments, making it imposs
 
 ### 2. Finance Department  
 
-1. #### P&L Overview by Fiscal Year
+1. #### [P&L Overview by Fiscal Year]()
     - Net Sales, COGS, GM, and GM% by fiscal years.
     - Metric-wise year-on-year trends to measure financial growth.
 

@@ -39,20 +39,20 @@ Numerous Excel files are scattered across multiple departments, making it imposs
 
 ### 2. Finance Department  
 
-1. #### [P&L Overview by Fiscal Year]()
+1. #### [P&L Overview by Fiscal Year](https://github.com/Anto-Jerin/Finance-and-Sales-Analytics-of-Electronics-Manufacturer/blob/main/P%26L%20Statement%20Overview.pdf)
     - Net Sales, COGS, GM, and GM% by fiscal years.
     - Metric-wise year-on-year trends to measure financial growth.
 
-2. #### P&L Statement by Months & Quarters
+2. #### [P&L Statement by FY, Months & Quarters](https://github.com/Anto-Jerin/Finance-and-Sales-Analytics-of-Electronics-Manufacturer/blob/main/P%26L%20Statement%20By%20FY%2C%20Quarters%20and%20Months.pdf)
     - Key metric trends across Fiscal Years, Quarter & Months.
     - Comparison among fiscal years to show seasonal trends.
     
-3. #### P&L Statement by Country  
+3. #### [P&L Statement by Country](https://github.com/Anto-Jerin/Finance-and-Sales-Analytics-of-Electronics-Manufacturer/blob/main/P%26L%20Statement%20By%20Markets.pdf)  
     - Country-wise breakdown of key metrics across fiscal years.
     - Highlighted countries with extreme positive and negative performances.
     
-4. #### GM% analysis by Subzone and Quarters  
-    - Comparison of GM% across sub-zones and quarters
+4. #### [GM% analysis by Subzones, FY and Quarters](https://github.com/Anto-Jerin/Finance-and-Sales-Analytics-of-Electronics-Manufacturer/blob/main/GM%25%20by%20Subzone%2C%20FY%20and%20Quarters.pdf)  
+    - Comparison of GM% across sub-zones, fiscal years, and quarters
 
 ## Business Objectives
 

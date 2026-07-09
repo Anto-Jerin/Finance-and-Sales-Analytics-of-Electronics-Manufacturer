@@ -18,15 +18,15 @@ Numerous Excel files are scattered across multiple departments, making it imposs
 
 ### 1. Sales Department
 
- -- 1. Customer Performance Report  
- -- 2. Market Performance Report  
+ > 1. Customer Performance Report  
+ > 2. Market Performance Report  
 
 ### 2. Finance Department
 
-  -- 1. P&L Overview by Fiscal Year  
-  -- 2. P&L Statement by Months & Quarters  
-  -- 3. P&L Statement by Country  
-  -- 4. GM% analysis by Subzone and Quarters  
+  > 1. P&L Overview by Fiscal Year  
+  > 2. P&L Statement by Months & Quarters  
+  > 3. P&L Statement by Country  
+  > 4. GM% analysis by Subzone and Quarters  
 
 
 ## Business Objectives

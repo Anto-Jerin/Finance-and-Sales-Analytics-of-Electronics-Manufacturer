@@ -16,18 +16,34 @@ Numerous Excel files are scattered across multiple departments, making it imposs
 
 ## Project Deliverables Requested
 
-> ### 1. Sales Department
->
- > 1. Customer Performance Report  
- > 2. Market Performance Report  
+### 1. Sales Department  
 
-### 2. Finance Department
+1. #### Customer Performance Report
 
-  > 1. P&L Overview by Fiscal Year  
-  > 2. P&L Statement by Months & Quarters  
-  > 3. P&L Statement by Country  
-  > 4. GM% analysis by Subzone and Quarters  
+    - Customer-wise net sales for the years 2019, 2020, and 2021
+    - Comparison of 2021 vs 2020 sales percentage change to measure growth/decline trends
+       
+2. #### Market Performance Report
+    
+    - Market-wise comparison of actual sales vs targets.
+    - Conditionally formatted report to highlight markets that missed the target.
+    
+### 2. Finance Department  
 
+1. #### P&L Overview by Fiscal Year
+    - Net Sales, COGS, GM, and GM% by fiscal years.
+    - Metric-wise year-on-year trends to measure financial growth.
+
+2. #### P&L Statement by Months & Quarters
+    - Key metric trends across Fiscal Years, Quarter & Months.
+    - Comparison among fiscal years to show seasonal trends.
+    
+3. #### P&L Statement by Country  
+    - Country-wise breakdown of key metrics across fiscal years.
+    - Highlighted countries with extreme positive and negative performances.
+    
+4. #### GM% analysis by Subzone and Quarters  
+    - Comparison of GM% across sub-zones and quarters
 
 ## Business Objectives
 

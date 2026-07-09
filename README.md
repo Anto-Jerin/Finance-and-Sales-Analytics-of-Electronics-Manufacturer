@@ -2,10 +2,15 @@
 
 ## Context and Business Problem
 
+#### Context
+
 AtliQ Hardware Manufactures Computer Hardware such as Keyboards, Mice, SSDs, routers, etc.
 They manufacture the products, store them in warehouses, and sell them to companies like Amazon, Chroma, and Walmart.
 They also sell products directly to consumers through their own physical and e-commerce stores.
+  
+&nbsp;
 
+#### Business Problems
 
 The company faces a serious issue in making informed, data driven decisions.
 Numerous Excel files are scattered across multiple departments, making it impossible 
@@ -13,6 +18,8 @@ Numerous Excel files are scattered across multiple departments, making it imposs
   -  to do seamless cross-departmental analysis
   -  to implement access control
   -  to ensure easy scalability.
+
+&nbsp;
 
 ## Project Deliverables Requested
 
@@ -27,7 +34,9 @@ Numerous Excel files are scattered across multiple departments, making it imposs
     
     - Market-wise comparison of actual sales vs targets.
     - Conditionally formatted report to highlight markets that missed the target.
-    
+
+&nbsp;
+
 ### 2. Finance Department  
 
 1. #### P&L Overview by Fiscal Year

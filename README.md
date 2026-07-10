@@ -13,7 +13,7 @@ They also sell products directly to consumers through their own physical and e-c
 #### Business Problems
 
 The company faces a serious issue in making informed, data driven decisions.
-Numerous Excel files are scattered across multiple departments, making it impossible 
+Numerous Excel files are scattered across multiple departments (finance, slaes), making it impossible 
   -  to avoid Conflicting numbers in meetings
   -  to do seamless cross-departmental analysis
   -  to implement access control

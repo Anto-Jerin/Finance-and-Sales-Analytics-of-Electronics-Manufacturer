@@ -4,9 +4,9 @@
 
 #### Context
 
-AtliQ Hardware Manufactures Computer Hardware such as Keyboards, Mice, SSDs, routers, etc.
-They manufacture the products, store them in warehouses, and sell them to companies like Amazon, Chroma, and Walmart.
-They also sell products directly to consumers through their own physical and e-commerce stores.
+AtliQ Hardware Manufactures Computer Hardware such as Keyboards, Mice, SSDs, routers, etc.  
+They manufacture the products, store them in warehouses, and sell them to companies like Amazon, Chroma, and Walmart.  
+They also sell products directly to consumers through their own physical and e-commerce stores.  
   
 &nbsp;
 
